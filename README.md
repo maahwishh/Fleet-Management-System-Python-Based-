@@ -1,6 +1,3 @@
-# Fleet-Management-System-Python-Based
-A Fleet Management System (FMS) is a model to manage and to optimize vehicle tracking, route planning, and resource allocation for efficient logistics operations.
-
 # Fleet Management System (Python-Based) 🚚<br>
 A Python-based Fleet Logistics Management System designed to optimize vehicle tracking, route planning, and resource allocation for efficient logistics operations.<br>
 
