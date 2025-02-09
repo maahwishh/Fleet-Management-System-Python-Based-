@@ -19,8 +19,8 @@ The system is structured using Object-Oriented Programming (OOP) principles.<br>
 
 ### UML diagram of all classes<br>
 ![image](https://github.com/user-attachments/assets/ed94b1d7-2f9a-45d9-ba8e-9c41160940b6)
-
-![image](https://github.com/user-attachments/assets/df84671a-aa15-497c-9516-709caaea238e)<br>
+![image](https://github.com/user-attachments/assets/39a13e63-2d34-434b-85dc-9338588f8b34)
+![image](https://github.com/user-attachments/assets/af8d2566-4cff-4ed8-848d-e702785a54d9)<br>
 
 **1️⃣ Parent Class: VehicleFleet**<br>
 The base class for managing the overall fleet of vehicles.<br>
